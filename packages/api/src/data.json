@@ -1,0 +1,650 @@
+[
+    {
+        "w": "thrifty",
+        "t": [
+            "cheap",
+            "spend",
+            "money",
+            "stingy"
+        ]
+    },
+    {
+        "w": "double",
+        "t": [
+            "twice",
+            "number",
+            "triple",
+            "amount"
+        ]
+    },
+    {
+        "w": "tragedy",
+        "t": [
+            "terrible",
+            "sad",
+            "victim",
+            "disaster"
+        ]
+    },
+    {
+        "w": "lawn",
+        "t": [
+            "grass",
+            "mow",
+            "green",
+            "yard"
+        ]
+    },
+    {
+        "w": "arrest",
+        "t": [
+            "jail",
+            "criminal",
+            "police",
+            "handcuffs"
+        ]
+    },
+    {
+        "w": "educate",
+        "t": [
+            "child",
+            "teach",
+            "learn",
+            "school"
+        ]
+    },
+    {
+        "w": "myth",
+        "t": [
+            "Greek",
+            "legend",
+            "history",
+            "culture"
+        ]
+    },
+    {
+        "w": "measurement",
+        "t": [
+            "unit",
+            "height",
+            "distance",
+            "length"
+        ]
+    },
+    {
+        "w": "prescription",
+        "t": [
+            "doctor",
+            "paper",
+            "medicine",
+            "pharmacy"
+        ]
+    },
+    {
+        "w": "grave",
+        "t": [
+            "bury",
+            "cemetery",
+            "dig",
+            "funeral"
+        ]
+    },
+    {
+        "w": "makeup",
+        "t": [
+            "women",
+            "lipstick",
+            "pretty",
+            "put on"
+        ]
+    },
+    {
+        "w": "hunt",
+        "t": [
+            "deer",
+            "gun",
+            "woods",
+            "food"
+        ]
+    },
+    {
+        "w": "surgeon",
+        "t": [
+            "doctor",
+            "surgery",
+            "operation",
+            "hospital"
+        ]
+    },
+    {
+        "w": "suburb",
+        "t": [
+            "city",
+            "outside",
+            "quiet",
+            "live"
+        ]
+    },
+    {
+        "w": "minimum",
+        "t": [
+            "maximum",
+            "lowest",
+            "wage",
+            "amount"
+        ]
+    },
+    {
+        "w": "sacred",
+        "t": [
+            "holy",
+            "religious",
+            "blessed",
+            "cow"
+        ]
+    },
+    {
+        "w": "warrior",
+        "t": [
+            "soldier",
+            "war",
+            "attack",
+            "battle"
+        ]
+    },
+    {
+        "w": "retired",
+        "t": [
+            "work",
+            "relax",
+            "old",
+            "pension"
+        ]
+    },
+    {
+        "w": "survey",
+        "t": [
+            "ask",
+            "questions",
+            "opinion",
+            "fill out"
+        ]
+    },
+    {
+        "w": "corruption",
+        "t": [
+            "politician",
+            "bribe",
+            "government",
+            "scandal"
+        ]
+    },
+    {
+        "w": "hook",
+        "t": [
+            "fishing",
+            "metal",
+            "sharp",
+            "bait"
+        ]
+    },
+    {
+        "w": "ankle",
+        "t": [
+            "sprain",
+            "leg",
+            "foot",
+            "break"
+        ]
+    },
+    {
+        "w": "steep",
+        "t": [
+            "climb",
+            "mountain",
+            "hill",
+            "angle"
+        ]
+    },
+    {
+        "w": "spread",
+        "t": [
+            "disease",
+            "virus",
+            "infection",
+            "prevent"
+        ]
+    },
+    {
+        "w": "cooperate",
+        "t": [
+            "together",
+            "everyone",
+            "unite",
+            "work"
+        ]
+    },
+    {
+        "w": "sacrifice",
+        "t": [
+            "human",
+            "kill",
+            "ritual",
+            "blood"
+        ]
+    },
+    {
+        "w": "bubble",
+        "t": [
+            "gum",
+            "soap",
+            "blow",
+            "pop"
+        ]
+    },
+    {
+        "w": "jaw",
+        "t": [
+            "mouth",
+            "teeth",
+            "bones",
+            "chew"
+        ]
+    },
+    {
+        "w": "sail",
+        "t": [
+            "ship",
+            "boat",
+            "ocean",
+            "wind"
+        ]
+    },
+    {
+        "w": "tropical",
+        "t": [
+            "hot",
+            "storm",
+            "island",
+            "exotic"
+        ]
+    },
+    {
+        "w": "mushroom",
+        "t": [
+            "white",
+            "eat",
+            "fungus",
+            "sauce"
+        ]
+    },
+    {
+        "w": "workout",
+        "t": [
+            "gym",
+            "weight",
+            "train",
+            "exercise"
+        ]
+    },
+    {
+        "w": "chew",
+        "t": [
+            "gum",
+            "food",
+            "eat",
+            "teeth"
+        ]
+    },
+    {
+        "w": "fragile",
+        "t": [
+            "delicate",
+            "break",
+            "glass",
+            "careful"
+        ]
+    },
+    {
+        "w": "mansion",
+        "t": [
+            "house",
+            "home",
+            "live",
+            "expensive"
+        ]
+    },
+    {
+        "w": "crowd",
+        "t": [
+            "people",
+            "many",
+            "herd",
+            "street"
+        ]
+    },
+    {
+        "w": "spit",
+        "t": [
+            "mouth",
+            "saliva",
+            "liquid",
+            "tobacco"
+        ]
+    },
+    {
+        "w": "hike",
+        "t": [
+            "walk",
+            "woods",
+            "mountain",
+            "backpack"
+        ]
+    },
+    {
+        "w": "dinosaur",
+        "t": [
+            "giant",
+            "extinct",
+            "lizard",
+            "Barney"
+        ]
+    },
+    {
+        "w": "polite",
+        "t": [
+            "nice",
+            "smile",
+            "manners",
+            "friendly"
+        ]
+    },
+    {
+        "w": "fried",
+        "t": [
+            "chicken",
+            "cook",
+            "food",
+            "oil"
+        ]
+    },
+    {
+        "w": "jail",
+        "t": [
+            "prison",
+            "criminals",
+            "bars",
+            "arrest"
+        ]
+    },
+    {
+        "w": "cigar",
+        "t": [
+            "Cuban",
+            "smoke",
+            "tobacco",
+            "cigarette"
+        ]
+    },
+    {
+        "w": "sip",
+        "t": [
+            "drink",
+            "taste",
+            "mouth",
+            "try"
+        ]
+    },
+    {
+        "w": "torture",
+        "t": [
+            "prisoner",
+            "information",
+            "pain",
+            "guard"
+        ]
+    },
+    {
+        "w": "nun",
+        "t": [
+            "Catholic",
+            "woman",
+            "priest",
+            "sister"
+        ]
+    },
+    {
+        "w": "owl",
+        "t": [
+            "night",
+            "bird",
+            "hoot",
+            "tree"
+        ]
+    },
+    {
+        "w": "lottery",
+        "t": [
+            "win",
+            "money",
+            "ticket",
+            "gambling"
+        ]
+    },
+    {
+        "w": "syrup",
+        "t": [
+            "pancakes",
+            "sweet",
+            "maple",
+            "butter"
+        ]
+    },
+    {
+        "w": "tornado",
+        "t": [
+            "storm",
+            "wind",
+            "damage",
+            "hurricane"
+        ]
+    },
+    {
+        "w": "float",
+        "t": [
+            "boat",
+            "water",
+            "surface",
+            "top"
+        ]
+    },
+    {
+        "w": "pearl",
+        "t": [
+            "oyster",
+            "white",
+            "jewelry",
+            "diver"
+        ]
+    },
+    {
+        "w": "allergy",
+        "t": [
+            "sneeze",
+            "itch",
+            "spring",
+            "season"
+        ]
+    },
+    {
+        "w": "pirate",
+        "t": [
+            "ship",
+            "Caribbean",
+            "Johnny Depp",
+            "Captain Hook"
+        ]
+    },
+    {
+        "w": "shovel",
+        "t": [
+            "dig",
+            "hole",
+            "shed",
+            "snow"
+        ]
+    },
+    {
+        "w": "cash",
+        "t": [
+            "money",
+            "check",
+            "payment",
+            "dollar"
+        ]
+    },
+    {
+        "w": "diaper",
+        "t": [
+            "Pampers",
+            "Huggies",
+            "change",
+            "baby"
+        ]
+    },
+    {
+        "w": "hen",
+        "t": [
+            "rooster",
+            "chicken",
+            "farm",
+            "eggs"
+        ]
+    },
+    {
+        "w": "mustache",
+        "t": [
+            "hair",
+            "beard",
+            "lip",
+            "shave"
+        ]
+    },
+    {
+        "w": "microwave",
+        "t": [
+            "heat",
+            "food",
+            "fast",
+            "cook"
+        ]
+    },
+    {
+        "w": "grill",
+        "t": [
+            "barbecue",
+            "cook",
+            "fire",
+            "meat"
+        ]
+    },
+    {
+        "w": "drummer",
+        "t": [
+            "Ringo",
+            "beat",
+            "sticks",
+            "band"
+        ]
+    },
+    {
+        "w": "toast",
+        "t": [
+            "bread",
+            "butter",
+            "breakfast",
+            "jelly"
+        ]
+    },
+    {
+        "w": "chart",
+        "t": [
+            "graph",
+            "numbers",
+            "visual",
+            "data"
+        ]
+    },
+    {
+        "w": "pajamas",
+        "t": [
+            "bed",
+            "night",
+            "sleepover",
+            "clothes"
+        ]
+    },
+    {
+        "w": "barber",
+        "t": [
+            "haircut",
+            "shave",
+            "scissors",
+            "hairdresser"
+        ]
+    },
+    {
+        "w": "barefoot",
+        "t": [
+            "shoes",
+            "socks",
+            "summer",
+            "beach"
+        ]
+    },
+    {
+        "w": "donkey",
+        "t": [
+            "gray",
+            "cart",
+            "stubborn",
+            "ride"
+        ]
+    },
+    {
+        "w": "blizzard",
+        "t": [
+            "snow",
+            "cold",
+            "weather",
+            "storm"
+        ]
+    },
+    {
+        "w": "click",
+        "t": [
+            "mouse",
+            "select",
+            "tap",
+            "noise"
+        ]
+    },
+    {
+        "w": "hammer",
+        "t": [
+            "nail",
+            "swing",
+            "build",
+            "tool"
+        ]
+    },
+    {
+        "w": "coconut",
+        "t": [
+            "fruit",
+            "oil",
+            "white",
+            "milk"
+        ]
+    }
+]

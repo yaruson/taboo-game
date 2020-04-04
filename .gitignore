@@ -1,0 +1,8 @@
+# NodeJS
+node_modules/
+
+# IDE
+.vscode/
+
+# Builds
+packages/web-client/dist/*/*
