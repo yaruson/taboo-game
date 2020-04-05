@@ -6,4 +6,4 @@ node_modules/
 .idea/
 
 # Builds
-packages/web-client/dist/*/*
+dist/**/*

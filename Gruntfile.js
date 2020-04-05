@@ -26,15 +26,11 @@ module.exports = function (grunt) {
           logConcurrentOutput: true
         }
       }
-    },
-    exec: {
-      api: 'node src/api/index.js'
     }
   })
 
   grunt.registerTask('dev', 'concurrent:dev')
   grunt.registerTask('build', 'webpack:prod')
-  grunt.registerTask('start', 'exec:api')
 
   grunt.registerTask('default', 'build')
 }
