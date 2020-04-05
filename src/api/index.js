@@ -13,10 +13,6 @@ debug('Serving statics from %s', dist)
 const app = express()
 app.use(express.static(dist))
 
-app.get(`/.well-known/acme-challenge/${process.env.LETSENCRYPT_CHALLENGE_FILE}`, (req, res) => {
-  res.send(process.env.LETSENCRYPT_CHALLENGE_SECRET)
-})
-
 const server = http.createServer(app)
 const io = socketio(server)
 
