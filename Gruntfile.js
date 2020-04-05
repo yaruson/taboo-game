@@ -33,8 +33,8 @@ module.exports = function (grunt) {
   })
 
   grunt.registerTask('dev', 'concurrent:dev')
-  grunt.registerTask('default', [
-    'webpack:prod',
-    'exec:api'
-  ])
+  grunt.registerTask('build', 'webpack:prod')
+  grunt.registerTask('start', 'exec:api')
+
+  grunt.registerTask('default', 'build')
 }
